@@ -1,0 +1,12 @@
+streamlit
+transformers
+torch
+numpy
+pandas
+plotly
+seaborn
+matplotlib
+scipy
+firebase-admin
+requests
+regex
